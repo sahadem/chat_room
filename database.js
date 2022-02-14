@@ -6,6 +6,7 @@ const con = mysql.createConnection({
   user: "root",
   password: "",
   database: "chat_room",
+  
 });
 
 // con.connect(function (err) {
